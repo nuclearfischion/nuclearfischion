@@ -49,3 +49,15 @@ I like front-end development and UI design.
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="30" />
     </code>
 </p>
+
+
+**📚 Tools I'm Learning**
+
+<p align="left">
+    <code>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" height="30" />
+    </code>
+    <code>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" height="30" />
+    </code>
+</p>
